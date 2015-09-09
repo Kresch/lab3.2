@@ -39,8 +39,8 @@ https://www.ida.liu.se/~732A50/info/courseinfo.en.shtml
 ~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
 }
 \examples{
-> dijkstra(wiki_graph,1)
-[1]  0  7  9 20 20 11
-> euclidian(2425,5)
-[1] 5
+dijkstra(wiki_graph,1)
+#[1]  0  7  9 20 20 11
+euclidian(2425,5)
+#[1] 5
 }

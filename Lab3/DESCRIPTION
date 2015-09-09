@@ -7,3 +7,4 @@ Author: Niclas Lovsjo, Maxime Bonneau
 Maintainer: Niclas Lovsjo <niclas.lovsjo@me.com>
 Description: Euclidian finds GCD's and Dijkstra's find shortest paths in graphs
 License: GPL-2
+Suggests: testthat
